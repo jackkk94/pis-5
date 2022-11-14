@@ -1,0 +1,5 @@
+node_modules
+npm-debud.log
+.git
+Dockerfile
+.idea
